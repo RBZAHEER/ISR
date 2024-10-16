@@ -1,0 +1,8 @@
+This is a sample input file.
+It contains multiple lines of text.
+This file is used for testing the Conflation program.
+Random words and phrases are included here:
+Java, programming, is, fun, and educational.
+Stop words are common words that may not add much meaning.
+Let's test the functionality of removing stop words and suffix stripping.
+Enjoy coding and keep learning new things!

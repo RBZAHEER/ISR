@@ -1,0 +1,4 @@
+Java is a high-level programming language.
+It was originally developed by Sun Microsystems.
+Java is platform-independent.
+The Java Virtual Machine (JVM) runs Java bytecode.
